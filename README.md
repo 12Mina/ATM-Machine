@@ -28,11 +28,6 @@ You can find the code for this project [[here](https://github.com/12Mina/ATM-sim
 - **Frameworks & Libraries:** None needed for this project
 - **Tools & Technologies:** Git,VS code and my personal computer.
 
-## GitHub Stats
-
-![Minase Adore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/minase-nuramo-5bb4ab292/))
